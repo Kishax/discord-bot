@@ -1,3 +1,4 @@
+This is public archive. Moved at [Kishax/kishax-api](https://github.com/Kishax/kishax-api).
 # Kishax Discord Bot (AWS版)
 
 ## Note
